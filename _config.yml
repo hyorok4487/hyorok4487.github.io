@@ -30,8 +30,7 @@ social:
 
 google_analytics: "UA-58263416-1"
 
-disqus:
-    shortname: hyorok4487
+
 comment:
   provider:         "disqus"
   disqus:
