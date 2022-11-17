@@ -25,10 +25,14 @@ social:
   github: brianmaierjr
   twitter: brianmaierjr
   facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  email: hyorok1234@naver.com
   linkedin: brianmaierjr
 
 google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: hyorok4487
+comment:
+  provider:         "disqus"
+  disqus:
+    shortname:      "hyorok4487"
