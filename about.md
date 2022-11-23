@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: 유레카 프로젝트 Github 블로그
 ---
 
 <div class="post">
