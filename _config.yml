@@ -29,11 +29,11 @@ social:
   #linkedin: brianmaierjr
 
 analytics:
-  provider        : "google-gtag"
+  provider        : google
 
   google:
-    tracking_id   : "G-Y88N8KV4RM"
-    anonymize_ip  :
+    tracking_id   : G-Y88N8KV4RM
+    anonymize_ip  : false
 
 
 comment:
