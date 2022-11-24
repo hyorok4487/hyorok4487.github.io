@@ -32,7 +32,7 @@ analytics:
   provider        : "google-gtag"
 
   google:
-    tracking_id   : "G-Y88N8KV4RM"
+    tracking_id   : "UA-250084565-1"
     measurement_id: "G-Y88N8KV4RM"
     anonymize_ip  : #false
 
