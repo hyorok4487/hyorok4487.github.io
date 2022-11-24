@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [markdown, md, eureka!, static web, dynamic web]
 title:  "Markdown"
 date:   2022-11-22
 description: 마크업 언어인 마크다운에 대해서 알아보자

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [jekyll, eureka!, ruby]
 title:  "Jekyll"
 date:   2022-11-23
 description: 지킬에 대한 간단한 설명입니다.

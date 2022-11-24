@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [git, github, eureka!, workflow]
 title:  "Git*Github"
 date:   2022-11-21
 description: 이 포스트는 git&github에 대한 내용입니다.
