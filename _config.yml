@@ -33,7 +33,7 @@ analytics:
 
   google:
     tracking_id   : "G-Y88N8KV4RM"
-    anonymize_ip  : "false"
+    anonymize_ip  : #false
 
 
 comment:
