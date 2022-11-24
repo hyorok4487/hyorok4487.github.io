@@ -5,6 +5,11 @@ title: Eureka!
 
 <div class="home" id="home">
   <h1 class="pageTitle">Recent Posts</h1>
+  {% for tag in site.data.tags %}
+    <span class="tag" data-tag="{{tag}}">
+      {{ site.data.format[tag] }}
+    </span>
+  {% endfor %}
   <div class="posts noList">
     {%- for post in paginator.posts -%}
       <article>
