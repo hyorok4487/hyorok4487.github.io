@@ -5,17 +5,18 @@ title: Eureka!
 
 <div class="home" id="home">
   <h1 class="pageTitle">Recent Posts</h1>
-  {% for tag in site.data.tags %}
+  <!--{% for tag in site.data.tags %}
     <span class="tag" data-tag="{{tag}}">
       {{ site.data.format[tag] }}
     </span>
-  {% endfor %}
+  {% endfor %}-->
   <div class="posts noList">
     {%- for post in paginator.posts -%}
       <article>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
         <p>{%- if post.description -%}{{ post.description }}{%- else -%}{{ post.excerpt | strip_html }}{%- endif -%}</p>
+
       </article>
     {%- endfor -%}
   </div>
