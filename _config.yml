@@ -28,7 +28,12 @@ social:
   email: hyorok1234@naver.com
   #linkedin: brianmaierjr
 
-google_analytics: "UA-58263416-1"
+analytics:
+  provider        : "google-gtag"
+
+  google:
+    tracking_id   : "G-Y88N8KV4RM"
+    anonymize_ip  :
 
 
 comment:
