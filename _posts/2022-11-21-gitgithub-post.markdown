@@ -30,7 +30,7 @@ comments: true
 2. 인덱스(index): 준비 영역(Staging Area)
 3. HEAD: 최종 확정본(commit)
 
-[![gitflow](/assets/images/gitflow.jpg "git workflow")](https://www.reddit.com/r/git/comments/99ul9f/git_workflow_diagram_showcasing_the_role_of/)
+[![gitflow](/assets/img/gitflow.png "git workflow")](https://www.reddit.com/r/git/comments/99ul9f/git_workflow_diagram_showcasing_the_role_of/)
 
 ## Git의 명령어 알아보기
 
@@ -39,7 +39,6 @@ comments: true
   <dd>변경된 파일을 인덱스에 추가한다</dd>
   <dt>확정(commit)->HEAD</dt>
   <dd>변경 내용을 확정한다</dd>
-<dl>
   <dt>발행(push)->remote server</dt>
   <dd>로컬 저장소 속 내용을 원격 서버로 올린다</dd>
   <dt>갱신(pull)</dt>
@@ -52,14 +51,14 @@ comments: true
 
 ## 핵심용어
 
-| 용어         | 설명                                                         |
-| ------------ | ------------------------------------------------------------ |
-| Repository   | 저장소                                                       |
-| Working Tree | 저장소를 바라보는 작업자의 시점                               |
-| Staging Area | 저장소에 커밋하기 전에 커밋을 준비하는 위치                    |
-| Commit       | 현재 변경된 작업 상태를 확정하고 저장소에 저장                 |
-| Head         | 현재 작업 중인 Branch를 가리킴                                | 
-| Branch       | 가지 또는 분기점                                              |
+| 용어 | 설명 |
+|------------|------------------------------------------------------------------------------------------------|
+| Repository   | 저장소 |
+| Working Tree | 저장소를 바라보는 작업자의 시점 |
+| Staging Area | 저장소에 커밋하기 전에 커밋을 준비하는 위치 |
+| Commit       | 현재 변경된 작업 상태를 확정하고 저장소에 저장 |
+| Head         | 현재 작업 중인 Branch를 가리킴 | 
+| Branch       | 가지 또는 분기점 |
 | Merge        | 다른 가지의 내용을 현재 가지로 가져와 합치는 작업이제 Git의 작업의 흐름 및 핵심용어들을 알게 되었으니 직접적으로 사용하는 방법을 배워봅시다. |
 
 ## Git 사용방법
