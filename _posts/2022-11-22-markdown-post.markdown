@@ -13,7 +13,7 @@ comments: true
 
 ## Markdown
 
-<img src="/assets/img/Markdown_Logo.wine.png" alt="">
+<img src="/assets/img/Markdown-Logo.wine.png" alt="">
 
 <blockquote>마크다운(Markdown)은 일반 텍스트 기반의 경량 마크업 언어다. 일반 텍스트로 서식이 있는 문서를 작성하는 데 사용되며, 일반 마크업 언어에 비해 문법이 쉽고 간단한 것이 특징이다. -위키백과-
 </blockquote>
@@ -70,7 +70,7 @@ comments: true
 
    
 
-   `이탤릭체 텍스트를 사용하고 있습니다. \*참 쉽죠?\*`
+   `이탤릭체 텍스트를 사용하고 있습니다. *참 쉽죠?*`
 
    이탤릭체 텍스트를 사용하고 있습니다. *참 쉽죠?*
 
