@@ -67,6 +67,14 @@ https://jekyllthemes.io/theme/long-haul
   4. Generate your Favicons and HTML code 버튼을 눌러 코드를 복사하고 _includes 폴더 > head.html에 코드를 붙여넣어 저장해 주면 파비콘이 적용된다.
   ![favicon](/favicon.png)
 4. 댓글
+  1. [disqus](https://disqus.com/)에 접속하여 회원가입 및 로그인을 한다.
+  2. I want to install Disqus on my site를 선택하고 사이트 정보 입력, 지킬 플랫폼 선택 등등 설정을 한다.
+  3. config.yml에 key-value를 추가한다.
+  [comments](/comments_config.png)
+  4. disqus에서 Universal code를 복사하여 post.html에 붙여넣는다.
+  [disqus](/post_comments.png)
+  5. post의 코드에 comments: true로 설정하여 댓글 기능을 활성화 하면 된다.
+  [comments](/comments.png)
   
 ## 5. post 작성
 자신이 쓰고자 하는 글을 마크다운 문법에 따라 포스트로 작성
