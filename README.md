@@ -22,6 +22,8 @@ https://rubyinstaller.org/downloads/ (Ruby + Devkit을 설치한다)
 
 ## 3. 지킬 테마 적용하기
 <p>이제 밋밋한 블로그에 테마를 입혀줄 차례다. 
+  
+  
 https://jekyllthemes.io/theme/long-haul
 위와 같은 여러 지킬 테마 제공 사이트에서 자신의 마음에 드는 테마를 선택 후 zip파일을 다운로드한다. 그리고 다운로드 한 파일을 나의 로컬 저장소 폴더에 덮어쓰기하여 붙여 넣는다.(혹시 이전에 작성한 post와 같은 글이 있으면 따로 빼 놓거나 그 post만 덮어쓰지 않는다.)
 그리고 로컬 저장소에서 git bash창을 열고 git status를 입력하면 수 많은 에러가 나타난다. git bash에서 저장하라는 것은 저장하고 삭제하라는 것은 삭제하며 점차 오류를 줄여나가면...
