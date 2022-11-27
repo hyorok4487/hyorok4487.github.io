@@ -38,6 +38,6 @@ comments: true
 - 상황, 시간, 요청 등에 따라 웹 페이지가 달라진다.
 - 사용자에게 웹 페이지를 전달하기 전 전처리 과정이 필요해 느리다.
 
-[![explanation of static and dynamic web](/assets/images/dynamic.jpg)](https://about.gitlab.com/blog/2016/06/03/ssg-overview-gitlab-pages-part-1-dynamic-x-static/)
+[![explanation of static and dynamic web](/assets/img/dynamic.png  "Static web site vs Dynamic web site")](https://about.gitlab.com/blog/2016/06/03/ssg-overview-gitlab-pages-part-1-dynamic-x-static/)
 
 지킬은 markdown이라는 양식을 따르기 때무에 글 작성에 있어서 편리함을 느끼는 사람이 많다. 그래서 최근에는 위드프레스라는 사이트 개발과 블로그 툴에서 지킬로 변경하는 사람들이 늘어나고 있다고 한다! 하지만 사람에 따라서는 익숙한 워드프레스를 선호하는 사람도 많다.
