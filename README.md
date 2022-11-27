@@ -23,7 +23,7 @@ https://rubyinstaller.org/downloads/ (Ruby + Devkit을 설치한다)
 
 ## 2. Git & Github를 활용하여 로컬 & 원격 저장소 형성
 # (1) 원격 저장소 생성
-<p>지킬을 설치한 후 깃허브 사이트에 들어가 새 원격 저장소를 만들어 준다. 이때 이름은 <username>.github.io로 설정한다.(<username>은 자신의 깃허브 이름)</p>
+<p>지킬을 설치한 후 깃허브 사이트에 들어가 새 원격 저장소를 만들어 준다. 이때 이름은 \<username\>.github.io로 설정한다.(\<username\>은 자신의 깃허브 이름)</p>
 
 
 # (2) 로컬 저장소와 연동
